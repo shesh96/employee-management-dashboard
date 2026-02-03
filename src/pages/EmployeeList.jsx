@@ -9,7 +9,7 @@ const EmployeeList = () => {
     const [genderFilter, setGenderFilter] = useState('All');
     const [statusFilter, setStatusFilter] = useState('All');
 
-    // Filter Logic
+    // Filter Logic setup
     const filteredEmployees = employees.filter(emp => {
         const matchesSearch = emp.fullName.toLowerCase().includes(searchTerm.toLowerCase());
         const matchesGender = genderFilter === 'All' || emp.gender === genderFilter;
