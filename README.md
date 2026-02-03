@@ -2,6 +2,8 @@
 
 A comprehensive React-based application designed to manage employee records efficiently. This project demonstrates a modern, premium UI implementation using Vanilla CSS, ensuring a clean and responsive user experience without reliance on external styling frameworks.
 
+> **🔗 Live Demo:** [Click Here to View Application](https://your-deployment-url.vercel.app/) *(Please update this link after deployment)*
+
 ## 📂 Project Structure
 
 ```
